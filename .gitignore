@@ -1,3 +1,258 @@
+configuration/config.ini
+configuration/.settings/org.eclipse.ui.ide.prefs
+configuration/org.eclipse.core.runtime/.manager/.fileTableLock
+configuration/org.eclipse.core.runtime/.manager/.tmp3.instance
+configuration/org.eclipse.equinox.app/.manager/.fileTableLock
+configuration/org.eclipse.equinox.app/.manager/.tmp5.instance
+configuration/org.eclipse.equinox.launcher/org.jkiss.dbeaver.ui.app.standalone_22.1.4.202208051447/splash.png
+configuration/org.eclipse.equinox.simpleconfigurator/bundles.info
+configuration/org.eclipse.osgi/framework.info.1
+configuration/org.eclipse.osgi/.manager/.fileTable.1
+configuration/org.eclipse.osgi/.manager/.fileTable.2
+configuration/org.eclipse.osgi/.manager/.fileTableLock
+configuration/org.eclipse.osgi/122/0/.cp/icons/obj/iu_obj.png
+configuration/org.eclipse.osgi/122/0/.cp/icons/obj/iu_update_obj.png
+configuration/org.eclipse.osgi/132/0/.cp/icons/full/message_info.png
+configuration/org.eclipse.osgi/132/0/.cp/icons/full/page.png
+configuration/org.eclipse.osgi/132/0/.cp/icons/full/title_banner.png
+configuration/org.eclipse.osgi/132/0/.cp/org/eclipse/jface/action/images/stop.png
+configuration/org.eclipse.osgi/132/0/.cp/org/eclipse/jface/wizard/images/stop.png
+configuration/org.eclipse.osgi/135/0/.cp/org/eclipse/jface/text/source/projection/images/collapsed.png
+configuration/org.eclipse.osgi/135/0/.cp/org/eclipse/jface/text/source/projection/images/expanded.png
+configuration/org.eclipse.osgi/144/0/.cp/swt-gdip-win32-4952r11.dll
+configuration/org.eclipse.osgi/144/0/.cp/swt-win32-4952r11.dll
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/dlcl16/collapseall.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/elcl16/stop.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/elcl16/trash.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/etool16/help_contents.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/etool16/print_edit.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/etool16/search.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/eview16/new_persp.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/progress/progress_error.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/progress/progress_none.png
+configuration/org.eclipse.osgi/149/0/.cp/icons/full/progress/progress_ok.png
+configuration/org.eclipse.osgi/152/0/.cp/icons/full/etool16/last_edit_pos.png
+configuration/org.eclipse.osgi/152/0/.cp/icons/full/etool16/next_edit_pos.png
+configuration/org.eclipse.osgi/154/0/.cp/icons/full/etool16/importdir_wiz.png
+configuration/org.eclipse.osgi/181/0/.cp/icons/erd_folder.png
+configuration/org.eclipse.osgi/181/0/.cp/icons/erd.png
+configuration/org.eclipse.osgi/181/0/.cp/icons/move.png
+configuration/org.eclipse.osgi/181/0/.cp/icons/note.png
+configuration/org.eclipse.osgi/181/0/.cp/icons/select.png
+configuration/org.eclipse.osgi/191/0/.cp/icons/db2_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/calcite_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/drill_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/duckdb_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/hive_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/odbc_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/sqlite_icon_big.png
+configuration/org.eclipse.osgi/203/0/.cp/icons/sqlite_icon.png
+configuration/org.eclipse.osgi/215/0/.cp/icons/mssql_icon_big.png
+configuration/org.eclipse.osgi/217/0/.cp/icons/mariadb_icon_big.png
+configuration/org.eclipse.osgi/217/0/.cp/icons/mariadb_icon.png
+configuration/org.eclipse.osgi/217/0/.cp/icons/mysql_icon_big.png
+configuration/org.eclipse.osgi/218/0/.cp/icons/mariadb_logo.png
+configuration/org.eclipse.osgi/218/0/.cp/icons/mysql_logo.png
+configuration/org.eclipse.osgi/224/0/.cp/icons/oracle_icon_big.png
+configuration/org.eclipse.osgi/225/0/.cp/icons/compile.png
+configuration/org.eclipse.osgi/225/0/.cp/icons/run.png
+configuration/org.eclipse.osgi/227/0/.cp/icons/postgresql_icon_big.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/connection/database_icon.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/misc/apache.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/over/error_ovr.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/over/key_ovr.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/over/success_ovr.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/status/error_small.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/status/error.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/status/info_small.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/status/question.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/association.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/column.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/columns.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/constraint.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/database.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_admin.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_constraint.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_database.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_info.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_schema.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_table.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_user.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder_view.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/folder.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/foreign_key.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/index.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/info.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/schema.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/table.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/trigger.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/unique_constraint.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/tree/unlocked.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/types/datetime.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/types/number.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/types/object.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/types/reference.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/types/string.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/types/uuid.png
+configuration/org.eclipse.osgi/245/0/.cp/lib/jsch.agentproxy.all-0.0.9.jar
+configuration/org.eclipse.osgi/256/0/.cp/icons/task_list.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/bookmark_folder.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/bookmark.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/configuration.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/create.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/database_connect.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/database_navigator.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/databases.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/dbeaver_perspective.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/delete.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/driver_manager.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/edit.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/erase.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/link_to_editor.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/project.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/projects.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/properties.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/refresh.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/scripts.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sync_connection.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading00.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading01.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading02.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading03.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading04.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading05.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading06.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/loading07.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/animation/progress_1.gif
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/auto_save.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/compare.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/export.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/folder_add.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/import.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/load.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/reset.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/save_as.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/save.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/file/saveall.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/arrow_bottom.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/arrow_down.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/arrow_top.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/arrow_up.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/browser.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/close.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/collapse_all.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/collapse.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/config_table.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/drop_down.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/expand_all.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/expand.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/filter_add.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/filter_apply.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/filter_save.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/filter_small.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/filter.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/find_text.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/find.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/fit-window.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/link.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/link2.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/original-size.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/pages.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/palette.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/rotate_left.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/search.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/separator_v.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/sort_decrease.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/sort_increase.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/sort_unknown.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/sql.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/textfield.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/tools.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/accept.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/back.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/cancel.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/commit.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/connect.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/details.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/disconnect.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/forward.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/grid.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/panel_customize.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/readonly.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/reconnect.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_fetch_all.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_fetch_page.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_first.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_last.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_next.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_previous.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/resultset_refresh.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/rollback.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/row_add.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/row_copy.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/row_delete.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/row_edit.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_cancel.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_console.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_exec_new.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_exec.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_inspector.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_plan.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_preview.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_script_create.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_script_exec_new.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_script_exec.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_script_recent.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_script.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_table.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/sql_text.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/table_export.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/table_import.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/txn_auto.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/txn_log.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/txn_manual.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/dbeaver16.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/dbeaver32.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/dbeaver48.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/dbeaver64.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/dbeaver256.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/copy.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/cut.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/delete.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/export.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/import.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/new_object.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/paste.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/redo.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/refresh.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/rename.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/save_as.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/save.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/saveall.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/search.png
+configuration/org.eclipse.osgi/258/0/.cp/icons/eclipse/undo.png
+configuration/org.eclipse.osgi/260/0/.cp/icons/dashboard.png
+configuration/org.eclipse.osgi/264/0/.cp/icons/panel_aggregate.png
+configuration/org.eclipse.osgi/264/0/.cp/icons/panel_grouping.png
+configuration/org.eclipse.osgi/264/0/.cp/icons/panel_metadata.png
+configuration/org.eclipse.osgi/264/0/.cp/icons/panel_references.png
+configuration/org.eclipse.osgi/264/0/.cp/icons/panel_value.png
+configuration/org.eclipse.osgi/273/0/.cp/icons/search/data.png
+configuration/org.eclipse.osgi/273/0/.cp/icons/search/metadata.png
+configuration/org.eclipse.osgi/42/0/.cp/os/win32/x86_64/localfile_1_0_0.dll
+configuration/org.eclipse.osgi/72/0/.cp/icons/full/elcl16/view_menu.png
+configuration/org.eclipse.osgi/72/0/.cp/icons/full/ovr16/pinned_ovr.png
+configuration/org.eclipse.osgi/73/0/.cp/images/dragHandle.png
+configuration/org.eclipse.update/platform.xml
+DBeaver/.eclipseproduct
+DBeaver/.gitignore
+DBeaver/dbeaver-cli.exe
+DBeaver/dbeaver.exe
+DBeaver/dbeaver.ini
+DBeaver/LICENSE
+DBeaver/README.md
+DBeaver/readme.txt
+DBeaver/Uninstall.exe
 Git/git-bash.exe
 Git/git-cmd.exe
 Git/LICENSE.txt
@@ -1943,7 +2198,6 @@ Git/mingw64/ssl/openssl.cnf
 Git/mingw64/ssl/openssl.cnf.dist
 Git/mingw64/ssl/certs/ca-bundle.crt
 Git/mingw64/ssl/certs/ca-bundle.trust.crt
-Git/usr/bin/[.exe
 Git/usr/bin/addgnupghome
 Git/usr/bin/applygnupgdefaults
 Git/usr/bin/arch.exe
@@ -6157,3 +6411,974 @@ Git/usr/ssl/certs/ca-bundle.trust.crt
 Git/usr/ssl/misc/CA.pl
 Git/usr/ssl/misc/tsget
 Git/usr/ssl/misc/tsget.pl
+.gitignore
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/about.html
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/epl-2.0.html
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/feature.properties
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/feature.xml
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/license.html
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/META-INF/ECLIPSE_.RSA
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/META-INF/ECLIPSE_.SF
+features/org.eclipse.ecf.core.feature_1.6.1.v20211005-1944/META-INF/MANIFEST.MF
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/about.html
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/epl-2.0.html
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/feature.properties
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/feature.xml
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/license.html
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/META-INF/ECLIPSE_.RSA
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/META-INF/ECLIPSE_.SF
+features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/META-INF/MANIFEST.MF
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/about.html
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/asl-v20.txt
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/epl-2.0.html
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/feature.properties
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/feature.xml
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/license.html
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/META-INF/ECLIPSE_.RSA
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/META-INF/ECLIPSE_.SF
+features/org.eclipse.ecf.filetransfer.feature_3.14.1800.v20220215-0126/META-INF/MANIFEST.MF
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/about.html
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/asl-v20.txt
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/epl-2.0.html
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/feature.properties
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/feature.xml
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/license.html
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/META-INF/ECLIPSE_.RSA
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/META-INF/ECLIPSE_.SF
+features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.600.v20220215-0126/META-INF/MANIFEST.MF
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/about.html
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/epl-2.0.html
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/feature.properties
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/feature.xml
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/license.html
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/META-INF/ECLIPSE_.RSA
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/META-INF/ECLIPSE_.SF
+features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/META-INF/MANIFEST.MF
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/epl-2.0.html
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/feature.properties
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/feature.xml
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/license.html
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/META-INF/ECLIPSE_.RSA
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/META-INF/ECLIPSE_.SF
+features/org.eclipse.equinox.p2.core.feature_1.6.1400.v20220518-1326/META-INF/MANIFEST.MF
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/epl-2.0.html
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/feature.properties
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/feature.xml
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/license.html
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/META-INF/ECLIPSE_.RSA
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/META-INF/ECLIPSE_.SF
+features/org.eclipse.equinox.p2.discovery.feature_1.2.1100.v20220210-1157/META-INF/MANIFEST.MF
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/epl-2.0.html
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/feature.properties
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/feature.xml
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/license.html
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/META-INF/ECLIPSE_.RSA
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/META-INF/ECLIPSE_.SF
+features/org.eclipse.equinox.p2.extras.feature_1.4.1600.v20220518-1326/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.app.base.feature_22.1.4.202208051447/feature.properties
+features/org.jkiss.dbeaver.app.base.feature_22.1.4.202208051447/feature.xml
+features/org.jkiss.dbeaver.app.base.feature_22.1.4.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.app.base.feature_22.1.4.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.app.base.feature_22.1.4.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.ce.feature_22.1.4.202208051447/feature.properties
+features/org.jkiss.dbeaver.ce.feature_22.1.4.202208051447/feature.xml
+features/org.jkiss.dbeaver.ce.feature_22.1.4.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.ce.feature_22.1.4.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.ce.feature_22.1.4.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.db.feature_1.0.78.202208051447/feature.properties
+features/org.jkiss.dbeaver.db.feature_1.0.78.202208051447/feature.xml
+features/org.jkiss.dbeaver.db.feature_1.0.78.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.db.feature_1.0.78.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.db.feature_1.0.78.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.db.ui.feature_1.0.78.202208051447/feature.properties
+features/org.jkiss.dbeaver.db.ui.feature_1.0.78.202208051447/feature.xml
+features/org.jkiss.dbeaver.db.ui.feature_1.0.78.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.db.ui.feature_1.0.78.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.db.ui.feature_1.0.78.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.rcp.feature_2.1.162.202208051447/build.properties
+features/org.jkiss.dbeaver.rcp.feature_2.1.162.202208051447/feature.properties
+features/org.jkiss.dbeaver.rcp.feature_2.1.162.202208051447/feature.xml
+features/org.jkiss.dbeaver.rcp.feature_2.1.162.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.rcp.feature_2.1.162.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.rcp.feature_2.1.162.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.runtime.feature_22.1.4.202208051447/feature.properties
+features/org.jkiss.dbeaver.runtime.feature_22.1.4.202208051447/feature.xml
+features/org.jkiss.dbeaver.runtime.feature_22.1.4.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.runtime.feature_22.1.4.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.runtime.feature_22.1.4.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.standalone.feature_22.1.4.202208051447/feature.properties
+features/org.jkiss.dbeaver.standalone.feature_22.1.4.202208051447/feature.xml
+features/org.jkiss.dbeaver.standalone.feature_22.1.4.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.standalone.feature_22.1.4.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.standalone.feature_22.1.4.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.ui.extra.feature_22.1.4.202208051447/feature.properties
+features/org.jkiss.dbeaver.ui.extra.feature_22.1.4.202208051447/feature.xml
+features/org.jkiss.dbeaver.ui.extra.feature_22.1.4.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.ui.extra.feature_22.1.4.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.ui.extra.feature_22.1.4.202208051447/META-INF/MANIFEST.MF
+features/org.jkiss.dbeaver.ui.feature_22.1.4.202208051447/feature.properties
+features/org.jkiss.dbeaver.ui.feature_22.1.4.202208051447/feature.xml
+features/org.jkiss.dbeaver.ui.feature_22.1.4.202208051447/META-INF/DBEAVER.RSA
+features/org.jkiss.dbeaver.ui.feature_22.1.4.202208051447/META-INF/DBEAVER.SF
+features/org.jkiss.dbeaver.ui.feature_22.1.4.202208051447/META-INF/MANIFEST.MF
+jre/release
+jre/bin/api-ms-win-core-console-l1-1-0.dll
+jre/bin/api-ms-win-core-datetime-l1-1-0.dll
+jre/bin/api-ms-win-core-debug-l1-1-0.dll
+jre/bin/api-ms-win-core-errorhandling-l1-1-0.dll
+jre/bin/api-ms-win-core-file-l1-1-0.dll
+jre/bin/api-ms-win-core-file-l1-2-0.dll
+jre/bin/api-ms-win-core-file-l2-1-0.dll
+jre/bin/api-ms-win-core-handle-l1-1-0.dll
+jre/bin/api-ms-win-core-heap-l1-1-0.dll
+jre/bin/api-ms-win-core-interlocked-l1-1-0.dll
+jre/bin/api-ms-win-core-libraryloader-l1-1-0.dll
+jre/bin/api-ms-win-core-localization-l1-2-0.dll
+jre/bin/api-ms-win-core-memory-l1-1-0.dll
+jre/bin/api-ms-win-core-namedpipe-l1-1-0.dll
+jre/bin/api-ms-win-core-processenvironment-l1-1-0.dll
+jre/bin/api-ms-win-core-processthreads-l1-1-0.dll
+jre/bin/api-ms-win-core-processthreads-l1-1-1.dll
+jre/bin/api-ms-win-core-profile-l1-1-0.dll
+jre/bin/api-ms-win-core-rtlsupport-l1-1-0.dll
+jre/bin/api-ms-win-core-string-l1-1-0.dll
+jre/bin/api-ms-win-core-synch-l1-1-0.dll
+jre/bin/api-ms-win-core-synch-l1-2-0.dll
+jre/bin/api-ms-win-core-sysinfo-l1-1-0.dll
+jre/bin/api-ms-win-core-timezone-l1-1-0.dll
+jre/bin/api-ms-win-core-util-l1-1-0.dll
+jre/bin/api-ms-win-crt-conio-l1-1-0.dll
+jre/bin/api-ms-win-crt-convert-l1-1-0.dll
+jre/bin/api-ms-win-crt-environment-l1-1-0.dll
+jre/bin/api-ms-win-crt-filesystem-l1-1-0.dll
+jre/bin/api-ms-win-crt-heap-l1-1-0.dll
+jre/bin/api-ms-win-crt-locale-l1-1-0.dll
+jre/bin/api-ms-win-crt-math-l1-1-0.dll
+jre/bin/api-ms-win-crt-multibyte-l1-1-0.dll
+jre/bin/api-ms-win-crt-private-l1-1-0.dll
+jre/bin/api-ms-win-crt-process-l1-1-0.dll
+jre/bin/api-ms-win-crt-runtime-l1-1-0.dll
+jre/bin/api-ms-win-crt-stdio-l1-1-0.dll
+jre/bin/api-ms-win-crt-string-l1-1-0.dll
+jre/bin/api-ms-win-crt-time-l1-1-0.dll
+jre/bin/api-ms-win-crt-utility-l1-1-0.dll
+jre/bin/attach.dll
+jre/bin/awt.dll
+jre/bin/fontmanager.dll
+jre/bin/freetype.dll
+jre/bin/harfbuzz.dll
+jre/bin/j2gss.dll
+jre/bin/j2pkcs11.dll
+jre/bin/jaas.dll
+jre/bin/java.dll
+jre/bin/java.exe
+jre/bin/javajpeg.dll
+jre/bin/javaw.exe
+jre/bin/jawt.dll
+jre/bin/jcmd.exe
+jre/bin/jimage.dll
+jre/bin/jinfo.exe
+jre/bin/jli.dll
+jre/bin/jmap.exe
+jre/bin/jps.exe
+jre/bin/jrunscript.exe
+jre/bin/jsound.dll
+jre/bin/jstack.exe
+jre/bin/jstat.exe
+jre/bin/keytool.exe
+jre/bin/kinit.exe
+jre/bin/klist.exe
+jre/bin/ktab.exe
+jre/bin/lcms.dll
+jre/bin/management_ext.dll
+jre/bin/management.dll
+jre/bin/mlib_image.dll
+jre/bin/msvcp140.dll
+jre/bin/net.dll
+jre/bin/nio.dll
+jre/bin/prefs.dll
+jre/bin/rmi.dll
+jre/bin/rmid.exe
+jre/bin/rmiregistry.exe
+jre/bin/splashscreen.dll
+jre/bin/sspi_bridge.dll
+jre/bin/sunec.dll
+jre/bin/sunmscapi.dll
+jre/bin/ucrtbase.dll
+jre/bin/vcruntime140.dll
+jre/bin/verify.dll
+jre/bin/w2k_lsa_auth.dll
+jre/bin/zip.dll
+jre/bin/server/jvm.dll
+jre/conf/logging.properties
+jre/conf/net.properties
+jre/conf/sound.properties
+jre/conf/security/java.policy
+jre/conf/security/java.security
+jre/conf/security/policy/README.txt
+jre/conf/security/policy/limited/default_local.policy
+jre/conf/security/policy/limited/default_US_export.policy
+jre/conf/security/policy/limited/exempt_local.policy
+jre/conf/security/policy/unlimited/default_local.policy
+jre/conf/security/policy/unlimited/default_US_export.policy
+jre/legal/java.base/ADDITIONAL_LICENSE_INFO
+jre/legal/java.base/aes.md
+jre/legal/java.base/asm.md
+jre/legal/java.base/ASSEMBLY_EXCEPTION
+jre/legal/java.base/c-libutl.md
+jre/legal/java.base/cldr.md
+jre/legal/java.base/icu.md
+jre/legal/java.base/LICENSE
+jre/legal/java.base/public_suffix.md
+jre/legal/java.base/unicode.md
+jre/legal/java.base/zlib.md
+jre/legal/java.datatransfer/ADDITIONAL_LICENSE_INFO
+jre/legal/java.datatransfer/ASSEMBLY_EXCEPTION
+jre/legal/java.datatransfer/LICENSE
+jre/legal/java.desktop/ADDITIONAL_LICENSE_INFO
+jre/legal/java.desktop/ASSEMBLY_EXCEPTION
+jre/legal/java.desktop/colorimaging.md
+jre/legal/java.desktop/freetype.md
+jre/legal/java.desktop/giflib.md
+jre/legal/java.desktop/harfbuzz.md
+jre/legal/java.desktop/jpeg.md
+jre/legal/java.desktop/lcms.md
+jre/legal/java.desktop/libpng.md
+jre/legal/java.desktop/LICENSE
+jre/legal/java.desktop/mesa3d.md
+jre/legal/java.logging/ADDITIONAL_LICENSE_INFO
+jre/legal/java.logging/ASSEMBLY_EXCEPTION
+jre/legal/java.logging/LICENSE
+jre/legal/java.management/ADDITIONAL_LICENSE_INFO
+jre/legal/java.management/ASSEMBLY_EXCEPTION
+jre/legal/java.management/LICENSE
+jre/legal/java.management.rmi/ADDITIONAL_LICENSE_INFO
+jre/legal/java.management.rmi/ASSEMBLY_EXCEPTION
+jre/legal/java.management.rmi/LICENSE
+jre/legal/java.naming/ADDITIONAL_LICENSE_INFO
+jre/legal/java.naming/ASSEMBLY_EXCEPTION
+jre/legal/java.naming/LICENSE
+jre/legal/java.net.http/ADDITIONAL_LICENSE_INFO
+jre/legal/java.net.http/ASSEMBLY_EXCEPTION
+jre/legal/java.net.http/LICENSE
+jre/legal/java.prefs/ADDITIONAL_LICENSE_INFO
+jre/legal/java.prefs/ASSEMBLY_EXCEPTION
+jre/legal/java.prefs/LICENSE
+jre/legal/java.rmi/ADDITIONAL_LICENSE_INFO
+jre/legal/java.rmi/ASSEMBLY_EXCEPTION
+jre/legal/java.rmi/LICENSE
+jre/legal/java.scripting/ADDITIONAL_LICENSE_INFO
+jre/legal/java.scripting/ASSEMBLY_EXCEPTION
+jre/legal/java.scripting/LICENSE
+jre/legal/java.security.jgss/ADDITIONAL_LICENSE_INFO
+jre/legal/java.security.jgss/ASSEMBLY_EXCEPTION
+jre/legal/java.security.jgss/LICENSE
+jre/legal/java.security.sasl/ADDITIONAL_LICENSE_INFO
+jre/legal/java.security.sasl/ASSEMBLY_EXCEPTION
+jre/legal/java.security.sasl/LICENSE
+jre/legal/java.sql/ADDITIONAL_LICENSE_INFO
+jre/legal/java.sql/ASSEMBLY_EXCEPTION
+jre/legal/java.sql/LICENSE
+jre/legal/java.sql.rowset/ADDITIONAL_LICENSE_INFO
+jre/legal/java.sql.rowset/ASSEMBLY_EXCEPTION
+jre/legal/java.sql.rowset/LICENSE
+jre/legal/java.transaction.xa/ADDITIONAL_LICENSE_INFO
+jre/legal/java.transaction.xa/ASSEMBLY_EXCEPTION
+jre/legal/java.transaction.xa/LICENSE
+jre/legal/java.xml/ADDITIONAL_LICENSE_INFO
+jre/legal/java.xml/ASSEMBLY_EXCEPTION
+jre/legal/java.xml/bcel.md
+jre/legal/java.xml/dom.md
+jre/legal/java.xml/jcup.md
+jre/legal/java.xml/LICENSE
+jre/legal/java.xml/xalan.md
+jre/legal/java.xml/xerces.md
+jre/legal/jdk.attach/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.attach/ASSEMBLY_EXCEPTION
+jre/legal/jdk.attach/LICENSE
+jre/legal/jdk.charsets/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.charsets/ASSEMBLY_EXCEPTION
+jre/legal/jdk.charsets/LICENSE
+jre/legal/jdk.crypto.cryptoki/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.crypto.cryptoki/ASSEMBLY_EXCEPTION
+jre/legal/jdk.crypto.cryptoki/LICENSE
+jre/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md
+jre/legal/jdk.crypto.cryptoki/pkcs11wrapper.md
+jre/legal/jdk.crypto.ec/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.crypto.ec/ASSEMBLY_EXCEPTION
+jre/legal/jdk.crypto.ec/ecc.md
+jre/legal/jdk.crypto.ec/LICENSE
+jre/legal/jdk.crypto.mscapi/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.crypto.mscapi/ASSEMBLY_EXCEPTION
+jre/legal/jdk.crypto.mscapi/LICENSE
+jre/legal/jdk.httpserver/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.httpserver/ASSEMBLY_EXCEPTION
+jre/legal/jdk.httpserver/LICENSE
+jre/legal/jdk.internal.jvmstat/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.internal.jvmstat/ASSEMBLY_EXCEPTION
+jre/legal/jdk.internal.jvmstat/LICENSE
+jre/legal/jdk.jcmd/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.jcmd/ASSEMBLY_EXCEPTION
+jre/legal/jdk.jcmd/LICENSE
+jre/legal/jdk.management/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.management/ASSEMBLY_EXCEPTION
+jre/legal/jdk.management/LICENSE
+jre/legal/jdk.naming.dns/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.naming.dns/ASSEMBLY_EXCEPTION
+jre/legal/jdk.naming.dns/LICENSE
+jre/legal/jdk.naming.rmi/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.naming.rmi/ASSEMBLY_EXCEPTION
+jre/legal/jdk.naming.rmi/LICENSE
+jre/legal/jdk.net/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.net/ASSEMBLY_EXCEPTION
+jre/legal/jdk.net/LICENSE
+jre/legal/jdk.security.auth/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.security.auth/ASSEMBLY_EXCEPTION
+jre/legal/jdk.security.auth/LICENSE
+jre/legal/jdk.security.jgss/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.security.jgss/ASSEMBLY_EXCEPTION
+jre/legal/jdk.security.jgss/LICENSE
+jre/legal/jdk.unsupported/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.unsupported/ASSEMBLY_EXCEPTION
+jre/legal/jdk.unsupported/LICENSE
+jre/legal/jdk.unsupported.desktop/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.unsupported.desktop/ASSEMBLY_EXCEPTION
+jre/legal/jdk.unsupported.desktop/LICENSE
+jre/legal/jdk.xml.dom/ADDITIONAL_LICENSE_INFO
+jre/legal/jdk.xml.dom/ASSEMBLY_EXCEPTION
+jre/legal/jdk.xml.dom/LICENSE
+jre/lib/classlist
+jre/lib/fontconfig.bfc
+jre/lib/fontconfig.properties.src
+jre/lib/jawt.lib
+jre/lib/jrt-fs.jar
+jre/lib/jvm.cfg
+jre/lib/jvm.lib
+jre/lib/modules
+jre/lib/psfont.properties.ja
+jre/lib/psfontj2d.properties
+jre/lib/tzdb.dat
+jre/lib/tzmappings
+jre/lib/client/Xusage.txt
+jre/lib/security/blacklisted.certs
+jre/lib/security/cacerts
+jre/lib/security/default.policy
+jre/lib/security/public_suffix_list.dat
+jre/lib/server/Xusage.txt
+licenses/commons_license.txt
+licenses/dbeaver_license.txt
+licenses/eclipse_license.html
+licenses/jsch-license.txt
+MariaDB 10.8/data/aria_log_control
+MariaDB 10.8/data/aria_log.00000001
+MariaDB 10.8/data/ddl_recovery.log
+MariaDB 10.8/data/DESKTOP-URGVJ62.err
+MariaDB 10.8/data/DESKTOP-URGVJ62.pid
+MariaDB 10.8/data/ib_buffer_pool
+MariaDB 10.8/data/ib_logfile0
+MariaDB 10.8/data/ibdata1
+MariaDB 10.8/data/ibtmp1
+MariaDB 10.8/data/multi-master.info
+MariaDB 10.8/data/my.ini
+MariaDB 10.8/data/img/db.opt
+MariaDB 10.8/data/img/post.frm
+MariaDB 10.8/data/img/post.ibd
+MariaDB 10.8/data/mysql/column_stats.frm
+MariaDB 10.8/data/mysql/column_stats.MAD
+MariaDB 10.8/data/mysql/column_stats.MAI
+MariaDB 10.8/data/mysql/columns_priv.frm
+MariaDB 10.8/data/mysql/columns_priv.MAD
+MariaDB 10.8/data/mysql/columns_priv.MAI
+MariaDB 10.8/data/mysql/db.frm
+MariaDB 10.8/data/mysql/db.MAD
+MariaDB 10.8/data/mysql/db.MAI
+MariaDB 10.8/data/mysql/db.opt
+MariaDB 10.8/data/mysql/event.frm
+MariaDB 10.8/data/mysql/event.MAD
+MariaDB 10.8/data/mysql/event.MAI
+MariaDB 10.8/data/mysql/func.frm
+MariaDB 10.8/data/mysql/func.MAD
+MariaDB 10.8/data/mysql/func.MAI
+MariaDB 10.8/data/mysql/general_log.CSM
+MariaDB 10.8/data/mysql/general_log.CSV
+MariaDB 10.8/data/mysql/general_log.frm
+MariaDB 10.8/data/mysql/global_priv.frm
+MariaDB 10.8/data/mysql/global_priv.MAD
+MariaDB 10.8/data/mysql/global_priv.MAI
+MariaDB 10.8/data/mysql/gtid_slave_pos.frm
+MariaDB 10.8/data/mysql/gtid_slave_pos.ibd
+MariaDB 10.8/data/mysql/help_category.frm
+MariaDB 10.8/data/mysql/help_category.MAD
+MariaDB 10.8/data/mysql/help_category.MAI
+MariaDB 10.8/data/mysql/help_keyword.frm
+MariaDB 10.8/data/mysql/help_keyword.MAD
+MariaDB 10.8/data/mysql/help_keyword.MAI
+MariaDB 10.8/data/mysql/help_relation.frm
+MariaDB 10.8/data/mysql/help_relation.MAD
+MariaDB 10.8/data/mysql/help_relation.MAI
+MariaDB 10.8/data/mysql/help_topic.frm
+MariaDB 10.8/data/mysql/help_topic.MAD
+MariaDB 10.8/data/mysql/help_topic.MAI
+MariaDB 10.8/data/mysql/index_stats.frm
+MariaDB 10.8/data/mysql/index_stats.MAD
+MariaDB 10.8/data/mysql/index_stats.MAI
+MariaDB 10.8/data/mysql/innodb_index_stats.frm
+MariaDB 10.8/data/mysql/innodb_index_stats.ibd
+MariaDB 10.8/data/mysql/innodb_table_stats.frm
+MariaDB 10.8/data/mysql/innodb_table_stats.ibd
+MariaDB 10.8/data/mysql/plugin.frm
+MariaDB 10.8/data/mysql/plugin.MAD
+MariaDB 10.8/data/mysql/plugin.MAI
+MariaDB 10.8/data/mysql/proc.frm
+MariaDB 10.8/data/mysql/proc.MAD
+MariaDB 10.8/data/mysql/proc.MAI
+MariaDB 10.8/data/mysql/procs_priv.frm
+MariaDB 10.8/data/mysql/procs_priv.MAD
+MariaDB 10.8/data/mysql/procs_priv.MAI
+MariaDB 10.8/data/mysql/proxies_priv.frm
+MariaDB 10.8/data/mysql/proxies_priv.MAD
+MariaDB 10.8/data/mysql/proxies_priv.MAI
+MariaDB 10.8/data/mysql/roles_mapping.frm
+MariaDB 10.8/data/mysql/roles_mapping.MAD
+MariaDB 10.8/data/mysql/roles_mapping.MAI
+MariaDB 10.8/data/mysql/servers.frm
+MariaDB 10.8/data/mysql/servers.MAD
+MariaDB 10.8/data/mysql/servers.MAI
+MariaDB 10.8/data/mysql/slow_log.CSM
+MariaDB 10.8/data/mysql/slow_log.CSV
+MariaDB 10.8/data/mysql/slow_log.frm
+MariaDB 10.8/data/mysql/table_stats.frm
+MariaDB 10.8/data/mysql/table_stats.MAD
+MariaDB 10.8/data/mysql/table_stats.MAI
+MariaDB 10.8/data/mysql/tables_priv.frm
+MariaDB 10.8/data/mysql/tables_priv.MAD
+MariaDB 10.8/data/mysql/tables_priv.MAI
+MariaDB 10.8/data/mysql/time_zone_leap_second.frm
+MariaDB 10.8/data/mysql/time_zone_leap_second.MAD
+MariaDB 10.8/data/mysql/time_zone_leap_second.MAI
+MariaDB 10.8/data/mysql/time_zone_name.frm
+MariaDB 10.8/data/mysql/time_zone_name.MAD
+MariaDB 10.8/data/mysql/time_zone_name.MAI
+MariaDB 10.8/data/mysql/time_zone_transition_type.frm
+MariaDB 10.8/data/mysql/time_zone_transition_type.MAD
+MariaDB 10.8/data/mysql/time_zone_transition_type.MAI
+MariaDB 10.8/data/mysql/time_zone_transition.frm
+MariaDB 10.8/data/mysql/time_zone_transition.MAD
+MariaDB 10.8/data/mysql/time_zone_transition.MAI
+MariaDB 10.8/data/mysql/time_zone.frm
+MariaDB 10.8/data/mysql/time_zone.MAD
+MariaDB 10.8/data/mysql/time_zone.MAI
+MariaDB 10.8/data/mysql/transaction_registry.frm
+MariaDB 10.8/data/mysql/transaction_registry.ibd
+MariaDB 10.8/data/mysql/user.frm
+MariaDB 10.8/data/performance_schema/db.opt
+MariaDB 10.8/data/sys/db.opt
+MariaDB 10.8/data/sys/host_summary_by_file_io_type.frm
+MariaDB 10.8/data/sys/host_summary_by_file_io.frm
+MariaDB 10.8/data/sys/host_summary_by_stages.frm
+MariaDB 10.8/data/sys/host_summary_by_statement_latency.frm
+MariaDB 10.8/data/sys/host_summary_by_statement_type.frm
+MariaDB 10.8/data/sys/host_summary.frm
+MariaDB 10.8/data/sys/innodb_buffer_stats_by_schema.frm
+MariaDB 10.8/data/sys/innodb_buffer_stats_by_table.frm
+MariaDB 10.8/data/sys/innodb_lock_waits.frm
+MariaDB 10.8/data/sys/io_by_thread_by_latency.frm
+MariaDB 10.8/data/sys/io_global_by_file_by_bytes.frm
+MariaDB 10.8/data/sys/io_global_by_file_by_latency.frm
+MariaDB 10.8/data/sys/io_global_by_wait_by_bytes.frm
+MariaDB 10.8/data/sys/io_global_by_wait_by_latency.frm
+MariaDB 10.8/data/sys/latest_file_io.frm
+MariaDB 10.8/data/sys/memory_by_host_by_current_bytes.frm
+MariaDB 10.8/data/sys/memory_by_thread_by_current_bytes.frm
+MariaDB 10.8/data/sys/memory_by_user_by_current_bytes.frm
+MariaDB 10.8/data/sys/memory_global_by_current_bytes.frm
+MariaDB 10.8/data/sys/memory_global_total.frm
+MariaDB 10.8/data/sys/metrics.frm
+MariaDB 10.8/data/sys/processlist.frm
+MariaDB 10.8/data/sys/ps_check_lost_instrumentation.frm
+MariaDB 10.8/data/sys/schema_auto_increment_columns.frm
+MariaDB 10.8/data/sys/schema_index_statistics.frm
+MariaDB 10.8/data/sys/schema_object_overview.frm
+MariaDB 10.8/data/sys/schema_redundant_indexes.frm
+MariaDB 10.8/data/sys/schema_table_lock_waits.frm
+MariaDB 10.8/data/sys/schema_table_statistics_with_buffer.frm
+MariaDB 10.8/data/sys/schema_table_statistics.frm
+MariaDB 10.8/data/sys/schema_tables_with_full_table_scans.frm
+MariaDB 10.8/data/sys/schema_unused_indexes.frm
+MariaDB 10.8/data/sys/session_ssl_status.frm
+MariaDB 10.8/data/sys/session.frm
+MariaDB 10.8/data/sys/statement_analysis.frm
+MariaDB 10.8/data/sys/statements_with_errors_or_warnings.frm
+MariaDB 10.8/data/sys/statements_with_full_table_scans.frm
+MariaDB 10.8/data/sys/statements_with_runtimes_in_95th_percentile.frm
+MariaDB 10.8/data/sys/statements_with_sorting.frm
+MariaDB 10.8/data/sys/statements_with_temp_tables.frm
+MariaDB 10.8/data/sys/sys_config.frm
+MariaDB 10.8/data/sys/sys_config.MAD
+MariaDB 10.8/data/sys/sys_config.MAI
+MariaDB 10.8/data/sys/user_summary_by_file_io_type.frm
+MariaDB 10.8/data/sys/user_summary_by_file_io.frm
+MariaDB 10.8/data/sys/user_summary_by_stages.frm
+MariaDB 10.8/data/sys/user_summary_by_statement_latency.frm
+MariaDB 10.8/data/sys/user_summary_by_statement_type.frm
+MariaDB 10.8/data/sys/user_summary.frm
+MariaDB 10.8/data/sys/version.frm
+MariaDB 10.8/data/sys/wait_classes_global_by_avg_latency.frm
+MariaDB 10.8/data/sys/wait_classes_global_by_latency.frm
+MariaDB 10.8/data/sys/waits_by_host_by_latency.frm
+MariaDB 10.8/data/sys/waits_by_user_by_latency.frm
+MariaDB 10.8/data/sys/waits_global_by_latency.frm
+MariaDB 10.8/data/sys/x@0024host_summary_by_file_io_type.frm
+MariaDB 10.8/data/sys/x@0024host_summary_by_file_io.frm
+MariaDB 10.8/data/sys/x@0024host_summary_by_stages.frm
+MariaDB 10.8/data/sys/x@0024host_summary_by_statement_latency.frm
+MariaDB 10.8/data/sys/x@0024host_summary_by_statement_type.frm
+MariaDB 10.8/data/sys/x@0024host_summary.frm
+MariaDB 10.8/data/sys/x@0024innodb_buffer_stats_by_schema.frm
+MariaDB 10.8/data/sys/x@0024innodb_buffer_stats_by_table.frm
+MariaDB 10.8/data/sys/x@0024innodb_lock_waits.frm
+MariaDB 10.8/data/sys/x@0024io_by_thread_by_latency.frm
+MariaDB 10.8/data/sys/x@0024io_global_by_file_by_bytes.frm
+MariaDB 10.8/data/sys/x@0024io_global_by_file_by_latency.frm
+MariaDB 10.8/data/sys/x@0024io_global_by_wait_by_bytes.frm
+MariaDB 10.8/data/sys/x@0024io_global_by_wait_by_latency.frm
+MariaDB 10.8/data/sys/x@0024latest_file_io.frm
+MariaDB 10.8/data/sys/x@0024memory_by_host_by_current_bytes.frm
+MariaDB 10.8/data/sys/x@0024memory_by_thread_by_current_bytes.frm
+MariaDB 10.8/data/sys/x@0024memory_by_user_by_current_bytes.frm
+MariaDB 10.8/data/sys/x@0024memory_global_by_current_bytes.frm
+MariaDB 10.8/data/sys/x@0024memory_global_total.frm
+MariaDB 10.8/data/sys/x@0024processlist.frm
+MariaDB 10.8/data/sys/x@0024ps_digest_95th_percentile_by_avg_us.frm
+MariaDB 10.8/data/sys/x@0024ps_digest_avg_latency_distribution.frm
+MariaDB 10.8/data/sys/x@0024ps_schema_table_statistics_io.frm
+MariaDB 10.8/data/sys/x@0024schema_flattened_keys.frm
+MariaDB 10.8/data/sys/x@0024schema_index_statistics.frm
+MariaDB 10.8/data/sys/x@0024schema_table_lock_waits.frm
+MariaDB 10.8/data/sys/x@0024schema_table_statistics_with_buffer.frm
+MariaDB 10.8/data/sys/x@0024schema_table_statistics.frm
+MariaDB 10.8/data/sys/x@0024schema_tables_with_full_table_scans.frm
+MariaDB 10.8/data/sys/x@0024session.frm
+MariaDB 10.8/data/sys/x@0024statement_analysis.frm
+MariaDB 10.8/data/sys/x@0024statements_with_errors_or_warnings.frm
+MariaDB 10.8/data/sys/x@0024statements_with_full_table_scans.frm
+MariaDB 10.8/data/sys/x@0024statements_with_runtimes_in_95th_percentile.frm
+MariaDB 10.8/data/sys/x@0024statements_with_sorting.frm
+MariaDB 10.8/data/sys/x@0024statements_with_temp_tables.frm
+MariaDB 10.8/data/sys/x@0024user_summary_by_file_io_type.frm
+MariaDB 10.8/data/sys/x@0024user_summary_by_file_io.frm
+MariaDB 10.8/data/sys/x@0024user_summary_by_stages.frm
+MariaDB 10.8/data/sys/x@0024user_summary_by_statement_latency.frm
+MariaDB 10.8/data/sys/x@0024user_summary_by_statement_type.frm
+MariaDB 10.8/data/sys/x@0024user_summary.frm
+MariaDB 10.8/data/sys/x@0024wait_classes_global_by_avg_latency.frm
+MariaDB 10.8/data/sys/x@0024wait_classes_global_by_latency.frm
+MariaDB 10.8/data/sys/x@0024waits_by_host_by_latency.frm
+MariaDB 10.8/data/sys/x@0024waits_by_user_by_latency.frm
+MariaDB 10.8/data/sys/x@0024waits_global_by_latency.frm
+plugins/com.github.jsqlparser_4.5.0.jar
+plugins/com.google.gson_2.8.9.v20220111-1409.jar
+plugins/com.ibm.icu.base_58.2.0.v20170418-1837.jar
+plugins/com.jcraft.jsch_0.1.55.v20190404-1902.jar
+plugins/com.sun.jna_5.8.0.v20210503-0343.jar
+plugins/com.sun.jna.platform_5.8.0.v20210406-1004.jar
+plugins/javax.annotation_1.3.5.v20200909-1856.jar
+plugins/javax.inject_1.0.0.v20220405-0441.jar
+plugins/org.apache.ant_1.10.0.jar
+plugins/org.apache.batik.constants_1.14.0.v20210324-0332.jar
+plugins/org.apache.batik.css_1.14.0.v20210324-0332.jar
+plugins/org.apache.batik.i18n_1.14.0.v20210324-0332.jar
+plugins/org.apache.batik.util_1.14.0.v20210324-0332.jar
+plugins/org.apache.commons.cli_1.4.0.v20200417-1444.jar
+plugins/org.apache.commons.codec_1.14.0.v20200818-1422.jar
+plugins/org.apache.commons.io_2.8.0.v20210415-0900.jar
+plugins/org.apache.commons.jexl_3.1.0.jar
+plugins/org.apache.commons.jxpath_1.3.0.v200911051830.jar
+plugins/org.apache.commons.logging_1.2.0.v20180409-1502.jar
+plugins/org.apache.felix.scr_2.1.24.v20200924-1939.jar
+plugins/org.apache.httpcomponents.client5.httpclient5_5.1.2.v20211217-1500.jar
+plugins/org.apache.httpcomponents.client5.httpclient5-win_5.1.2.v20211217-1500.jar
+plugins/org.apache.httpcomponents.core5.httpcore5_5.1.2.v20211217-1500.jar
+plugins/org.apache.httpcomponents.core5.httpcore5-h2_5.1.2.v20211217-1500.jar
+plugins/org.apache.xmlgraphics_2.6.0.v20210409-0748.jar
+plugins/org.bouncycastle.bcpg_1.70.0.v20220507-1208.jar
+plugins/org.bouncycastle.bcpkix_1.70.0.v20220105-1522.jar
+plugins/org.bouncycastle.bcprov_1.70.0.v20220507-1208.jar
+plugins/org.bouncycastle.bcutil_1.70.0.v20220105-1522.jar
+plugins/org.eclipse.compare_3.8.400.v20220420-1133.jar
+plugins/org.eclipse.compare.core_3.7.0.v20220513-0551.jar
+plugins/org.eclipse.compare.core.nls_3.7.0.v20220513-0551.jar
+plugins/org.eclipse.compare.nls_3.8.400.v20220420-1133.jar
+plugins/org.eclipse.core.commands_3.10.200.v20220512-0851.jar
+plugins/org.eclipse.core.contenttype_3.8.100.v20210910-0640.jar
+plugins/org.eclipse.core.databinding_1.11.0.v20220118-1028.jar
+plugins/org.eclipse.core.databinding.observable_1.12.0.v20211231-1006.jar
+plugins/org.eclipse.core.databinding.property_1.9.0.v20210619-1129.jar
+plugins/org.eclipse.core.expressions_3.8.100.v20210910-0640.jar
+plugins/org.eclipse.core.filebuffers_3.7.200.v20220202-1008.jar
+plugins/org.eclipse.core.filesystem_1.9.400.v20220419-0658.jar
+plugins/org.eclipse.core.filesystem.win32.x86_64_1.4.200.v20190812-0909.jar
+plugins/org.eclipse.core.jobs_3.13.0.v20220512-1935.jar
+plugins/org.eclipse.core.net_1.3.1200.v20220312-1450.jar
+plugins/org.eclipse.core.resources_3.17.0.v20220517-0751.jar
+plugins/org.eclipse.core.resources.win32.x86_64_3.5.400.v20190812-0909.jar
+plugins/org.eclipse.core.runtime_3.25.0.v20220506-1157.jar
+plugins/org.eclipse.core.variables_3.5.100.v20210721-1355.jar
+plugins/org.eclipse.debug.core_3.19.100.v20220324-0630.jar
+plugins/org.eclipse.debug.core.nls_3.19.100.v20220324-0630.jar
+plugins/org.eclipse.draw2dl_3.12.100.20220729112723.jar
+plugins/org.eclipse.e4.core.commands_1.0.100.v20211204-1536.jar
+plugins/org.eclipse.e4.core.contexts_1.10.0.v20220430-0424.jar
+plugins/org.eclipse.e4.core.di_1.8.200.v20220512-1957.jar
+plugins/org.eclipse.e4.core.di.annotations_1.7.100.v20210910-0640.jar
+plugins/org.eclipse.e4.core.di.extensions_0.17.100.v20210910-0640.jar
+plugins/org.eclipse.e4.core.di.extensions.supplier_0.16.300.v20220503-2248.jar
+plugins/org.eclipse.e4.core.services_2.3.200.v20220513-1235.jar
+plugins/org.eclipse.e4.emf.xpath_0.3.0.v20210722-1426.jar
+plugins/org.eclipse.e4.ui.bindings_0.13.100.v20210722-1426.jar
+plugins/org.eclipse.e4.ui.css.core_0.13.200.v20211022-1402.jar
+plugins/org.eclipse.e4.ui.css.swt_0.14.500.v20220511-1639.jar
+plugins/org.eclipse.e4.ui.css.swt.theme_0.13.100.v20220310-1056.jar
+plugins/org.eclipse.e4.ui.di_1.4.0.v20210621-1133.jar
+plugins/org.eclipse.e4.ui.dialogs_1.3.200.v20211210-1500.jar
+plugins/org.eclipse.e4.ui.ide_3.16.100.v20220310-1350.jar
+plugins/org.eclipse.e4.ui.model.workbench_2.2.100.v20220331-0744.jar
+plugins/org.eclipse.e4.ui.services_1.5.0.v20210115-1333.jar
+plugins/org.eclipse.e4.ui.swt.win32_1.1.0.v20201119-1132.jar
+plugins/org.eclipse.e4.ui.widgets_1.3.0.v20210621-1136.jar
+plugins/org.eclipse.e4.ui.workbench_1.13.100.v20211019-0756.jar
+plugins/org.eclipse.e4.ui.workbench.addons.swt_1.4.400.v20211102-0453.jar
+plugins/org.eclipse.e4.ui.workbench.addons.swt.nls_1.4.400.v20211102-0453.jar
+plugins/org.eclipse.e4.ui.workbench.renderers.swt_0.15.500.v20220511-1638.jar
+plugins/org.eclipse.e4.ui.workbench.renderers.swt.nls_0.15.500.v20220511-1638.jar
+plugins/org.eclipse.e4.ui.workbench.swt_0.16.500.v20220506-1520.jar
+plugins/org.eclipse.e4.ui.workbench.swt.nls_0.16.500.v20220506-1520.jar
+plugins/org.eclipse.e4.ui.workbench3_0.16.0.v20210619-0956.jar
+plugins/org.eclipse.ecf_3.10.0.v20210925-0032.jar
+plugins/org.eclipse.ecf.filetransfer_5.1.102.v20210409-2301.jar
+plugins/org.eclipse.ecf.identity_3.9.402.v20210409-2301.jar
+plugins/org.eclipse.ecf.provider.filetransfer_3.2.800.v20220215-0126.jar
+plugins/org.eclipse.ecf.provider.filetransfer.httpclient5_1.0.300.v20220215-0126.jar
+plugins/org.eclipse.ecf.provider.filetransfer.httpclient5.win32_1.0.400.v20220109-1926.jar
+plugins/org.eclipse.ecf.provider.filetransfer.ssl_1.0.201.v20210409-2301.jar
+plugins/org.eclipse.ecf.ssl_1.2.401.v20210409-2301.jar
+plugins/org.eclipse.emf.common_2.25.0.v20220325-0806.jar
+plugins/org.eclipse.emf.ecore_2.27.0.v20220426-0617.jar
+plugins/org.eclipse.emf.ecore.change_2.14.0.v20190528-0725.jar
+plugins/org.eclipse.emf.ecore.xmi_2.16.0.v20190528-0725.jar
+plugins/org.eclipse.equinox.app_1.6.100.v20211021-1418.jar
+plugins/org.eclipse.equinox.bidi_1.4.100.v20211021-1418.jar
+plugins/org.eclipse.equinox.common_3.16.100.v20220315-2327.jar
+plugins/org.eclipse.equinox.concurrent_1.2.100.v20211021-1418.jar
+plugins/org.eclipse.equinox.event_1.6.100.v20211021-1418.jar
+plugins/org.eclipse.equinox.frameworkadmin_2.2.0.v20210315-2042.jar
+plugins/org.eclipse.equinox.frameworkadmin.equinox_1.2.200.v20220315-2155.jar
+plugins/org.eclipse.equinox.launcher_1.6.400.v20210924-0641.jar
+plugins/org.eclipse.equinox.p2.artifact.repository_1.4.500.v20220420-1427.jar
+plugins/org.eclipse.equinox.p2.console_1.2.0.v20210315-2042.jar
+plugins/org.eclipse.equinox.p2.core_2.9.100.v20220310-1733.jar
+plugins/org.eclipse.equinox.p2.director_2.5.300.v20220421-0708.jar
+plugins/org.eclipse.equinox.p2.director.app_1.2.100.v20211220-1825.jar
+plugins/org.eclipse.equinox.p2.directorywatcher_1.3.0.v20210316-1209.jar
+plugins/org.eclipse.equinox.p2.discovery_1.2.0.v20210315-2042.jar
+plugins/org.eclipse.equinox.p2.discovery.compatibility_1.2.200.v20220210-1157.jar
+plugins/org.eclipse.equinox.p2.engine_2.7.400.v20220329-1456.jar
+plugins/org.eclipse.equinox.p2.extensionlocation_1.4.100.v20220213-0541.jar
+plugins/org.eclipse.equinox.p2.garbagecollector_1.2.0.v20210316-1209.jar
+plugins/org.eclipse.equinox.p2.jarprocessor_1.2.300.v20220420-1427.jar
+plugins/org.eclipse.equinox.p2.metadata_2.6.200.v20220324-1313.jar
+plugins/org.eclipse.equinox.p2.metadata.repository_1.4.100.v20220329-1456.jar
+plugins/org.eclipse.equinox.p2.operations_2.6.0.v20210315-2228.jar
+plugins/org.eclipse.equinox.p2.publisher_1.7.100.v20220420-1427.jar
+plugins/org.eclipse.equinox.p2.publisher.eclipse_1.4.100.v20220420-1427.jar
+plugins/org.eclipse.equinox.p2.reconciler.dropins_1.4.100.v20211217-1131.jar
+plugins/org.eclipse.equinox.p2.repository_2.6.100.v20220422-1806.jar
+plugins/org.eclipse.equinox.p2.repository.tools_2.3.100.v20220504-1755.jar
+plugins/org.eclipse.equinox.p2.touchpoint.eclipse_2.3.200.v20220503-2330.jar
+plugins/org.eclipse.equinox.p2.touchpoint.natives_1.4.400.v20220506-1821.jar
+plugins/org.eclipse.equinox.p2.transport.ecf_1.3.300.v20220512-1321.jar
+plugins/org.eclipse.equinox.p2.ui_2.7.500.v20220423-1604.jar
+plugins/org.eclipse.equinox.p2.ui.discovery_1.2.300.v20210813-0655.jar
+plugins/org.eclipse.equinox.p2.ui.importexport_1.3.300.v20220329-1456.jar
+plugins/org.eclipse.equinox.p2.ui.sdk_1.2.4.v20220213-1624.jar
+plugins/org.eclipse.equinox.p2.updatesite_1.2.300.v20220420-1427.jar
+plugins/org.eclipse.equinox.preferences_3.10.0.v20220503-1634.jar
+plugins/org.eclipse.equinox.registry_3.11.100.v20211021-1418.jar
+plugins/org.eclipse.equinox.security_1.3.900.v20220108-1321.jar
+plugins/org.eclipse.equinox.security.ui_1.3.200.v20220115-0654.jar
+plugins/org.eclipse.equinox.security.win32.x86_64_1.1.300.v20211021-1418.jar
+plugins/org.eclipse.equinox.simpleconfigurator_1.4.0.v20210315-2228.jar
+plugins/org.eclipse.equinox.simpleconfigurator.manipulator_2.2.0.v20210315-2228.jar
+plugins/org.eclipse.gef3_3.12.100.20220729112723.jar
+plugins/org.eclipse.help_3.9.100.v20210721-0601.jar
+plugins/org.eclipse.help.nls_3.9.100.v20210721-0601.jar
+plugins/org.eclipse.jface_3.26.0.v20220513-0449.jar
+plugins/org.eclipse.jface.databinding_1.13.0.v20210619-1146.jar
+plugins/org.eclipse.jface.nls_3.26.0.v20220513-0449.jar
+plugins/org.eclipse.jface.notifications_0.5.0.v20220401-0716.jar
+plugins/org.eclipse.jface.notifications.nls_0.5.0.v20220401-0716.jar
+plugins/org.eclipse.jface.text_3.20.100.v20220516-0819.jar
+plugins/org.eclipse.jface.text.nls_3.20.100.v20220516-0819.jar
+plugins/org.eclipse.jsch.core_1.3.900.v20200422-1935.jar
+plugins/org.eclipse.jsch.core.nls_1.3.900.v20200422-1935.jar
+plugins/org.eclipse.jsch.ui_1.4.100.v20210917-1201.jar
+plugins/org.eclipse.jsch.ui.nls_1.4.100.v20210917-1201.jar
+plugins/org.eclipse.ltk.core.refactoring_3.12.200.v20220502-1514.jar
+plugins/org.eclipse.ltk.ui.refactoring_3.12.100.v20220329-1353.jar
+plugins/org.eclipse.osgi_3.18.0.v20220516-2155.jar
+plugins/org.eclipse.osgi.compatibility.state_1.2.600.v20220207-1403.jar
+plugins/org.eclipse.osgi.services_3.10.200.v20210723-0643.jar
+plugins/org.eclipse.osgi.util_3.7.0.v20220427-2144.jar
+plugins/org.eclipse.search_3.14.100.v20220120-1549.jar
+plugins/org.eclipse.search.nls_3.14.100.v20220120-1549.jar
+plugins/org.eclipse.swt_3.120.0.v20220530-1036.jar
+plugins/org.eclipse.swt.nls_3.120.0.v20220530-1036.jar
+plugins/org.eclipse.swt.win32.win32.x86_64_3.120.0.v20220530-1036.jar
+plugins/org.eclipse.team.core_3.9.400.v20220511-1440.jar
+plugins/org.eclipse.team.core.nls_3.9.400.v20220511-1440.jar
+plugins/org.eclipse.team.ui_3.9.300.v20220420-1133.jar
+plugins/org.eclipse.team.ui.nls_3.9.300.v20220420-1133.jar
+plugins/org.eclipse.text_3.12.100.v20220506-1404.jar
+plugins/org.eclipse.text.nls_3.12.100.v20220506-1404.jar
+plugins/org.eclipse.text.quicksearch_1.1.300.v20211203-1705.jar
+plugins/org.eclipse.text.quicksearch.nls_1.1.300.v20211203-1705.jar
+plugins/org.eclipse.ui_3.201.0.v20220124-1108.jar
+plugins/org.eclipse.ui.browser_3.7.100.v20211105-1434.jar
+plugins/org.eclipse.ui.browser.nls_3.7.100.v20211105-1434.jar
+plugins/org.eclipse.ui.console_3.11.200.v20220324-0630.jar
+plugins/org.eclipse.ui.console.nls_3.11.200.v20220324-0630.jar
+plugins/org.eclipse.ui.editors_3.14.300.v20210913-0815.jar
+plugins/org.eclipse.ui.editors.nls_3.14.300.v20210913-0815.jar
+plugins/org.eclipse.ui.forms_3.11.300.v20211022-1451.jar
+plugins/org.eclipse.ui.forms.nls_3.11.300.v20211022-1451.jar
+plugins/org.eclipse.ui.ide_3.19.0.v20220511-1638.jar
+plugins/org.eclipse.ui.ide.application_1.4.400.v20220502-1523.jar
+plugins/org.eclipse.ui.ide.application.nls_1.4.400.v20220502-1523.jar
+plugins/org.eclipse.ui.ide.nls_3.19.0.v20220511-1638.jar
+plugins/org.eclipse.ui.intro_3.6.500.v20220317-1346.jar
+plugins/org.eclipse.ui.intro.nls_3.6.500.v20220317-1346.jar
+plugins/org.eclipse.ui.navigator_3.10.200.v20211009-1706.jar
+plugins/org.eclipse.ui.navigator.nls_3.10.200.v20211009-1706.jar
+plugins/org.eclipse.ui.navigator.resources_3.8.400.v20220203-1803.jar
+plugins/org.eclipse.ui.navigator.resources.nls_3.8.400.v20220203-1803.jar
+plugins/org.eclipse.ui.net_1.4.0.v20210426-0838.jar
+plugins/org.eclipse.ui.net.nls_1.4.0.v20210426-0838.jar
+plugins/org.eclipse.ui.nls_3.201.0.v20220124-1108.jar
+plugins/org.eclipse.ui.views_3.11.100.v20210816-0811.jar
+plugins/org.eclipse.ui.views.log_1.3.200.v20220310-1555.jar
+plugins/org.eclipse.ui.views.log.nls_1.3.200.v20220310-1555.jar
+plugins/org.eclipse.ui.views.nls_3.11.100.v20210816-0811.jar
+plugins/org.eclipse.ui.views.properties.tabbed_3.9.100.v20201223-1348.jar
+plugins/org.eclipse.ui.views.properties.tabbed.nls_3.9.100.v20201223-1348.jar
+plugins/org.eclipse.ui.win32_3.4.400.v20200414-1247.jar
+plugins/org.eclipse.ui.win32.nls_3.4.400.v20200414-1247.jar
+plugins/org.eclipse.ui.workbench_3.125.100.v20220524-1304.jar
+plugins/org.eclipse.ui.workbench.nls_3.125.100.v20220524-1304.jar
+plugins/org.eclipse.ui.workbench.texteditor_3.16.500.v20220331-0848.jar
+plugins/org.eclipse.ui.workbench.texteditor.nls_3.16.500.v20220331-0848.jar
+plugins/org.eclipse.update.configurator_3.4.800.v20210415-1314.jar
+plugins/org.eclipse.urischeme_1.2.100.v20211001-1648.jar
+plugins/org.jkiss.dbeaver.cmp.simple_6.0.83.202208051447.jar
+plugins/org.jkiss.dbeaver.cmp.simple.ui_6.0.83.202208051447.jar
+plugins/org.jkiss.dbeaver.core_22.1.4.202208051447.jar
+plugins/org.jkiss.dbeaver.data.console_1.0.63.202208051447.jar
+plugins/org.jkiss.dbeaver.data.gis_1.0.111.202208051447.jar
+plugins/org.jkiss.dbeaver.data.gis.view_1.0.82.202208051447.jar
+plugins/org.jkiss.dbeaver.data.transfer_2.0.71.202208051447.jar
+plugins/org.jkiss.dbeaver.data.transfer.ui_1.0.71.202208051447.jar
+plugins/org.jkiss.dbeaver.erd.model_1.0.47.202208051447.jar
+plugins/org.jkiss.dbeaver.erd.ui_3.0.47.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.athena_1.0.93.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.athena.ui_1.0.57.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.bigquery_1.0.93.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.bigquery.ui_1.0.57.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.clickhouse_1.0.92.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.clickhouse.ui_1.0.91.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.databricks_1.0.9.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.datavirtuality_1.0.37.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.datavirtuality.ui_1.0.33.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.db2_2.1.172.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.db2.i_1.0.75.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.db2.ui_1.0.12.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.db2.zos_1.0.90.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.denodo_1.0.33.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.denodo.ui_1.0.33.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.derby_1.1.172.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.elasticsearch_1.0.98.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.exasol_1.0.145.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.exasol.ui_1.0.56.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.firebird_1.0.188.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.format.sqlworkbenchj_1.0.94.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.generic_2.3.173.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.generic.ui_1.0.63.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.greenplum_1.0.88.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.h2_1.0.142.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.h2gis_1.0.70.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.hana_1.2.65.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.hana.ui_1.0.40.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.hive_1.0.93.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.hsqldb_1.0.134.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.import_config_2.1.150.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.informix_1.0.178.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.kognitio_1.0.71.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.mssql_1.0.181.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.mssql.ui_1.0.86.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.mysql_2.1.172.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.mysql.ui_1.0.79.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.netezza_1.0.152.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.oceanbase_1.0.25.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.oceanbase.ui_1.0.25.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.ocient_1.0.58.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.opendistro_1.0.71.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.oracle_2.1.172.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.oracle.ui_1.0.74.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.phoenix_1.0.156.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.postgresql_2.1.160.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.postgresql.ui_1.0.63.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.sample.database_1.0.124.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.snowflake.core_1.0.107.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.snowflake.ui_1.0.107.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.spanner_1.0.74.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.spanner.ui_1.0.57.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.sqlite_1.0.136.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.sqlite.ui_1.0.57.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.teradata_1.0.155.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.ui.colortheme_1.0.94.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.ui.locks_1.0.132.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.ui.tipoftheday_1.0.93.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.vertica_2.0.117.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.vertica.ui_1.0.78.202208051447.jar
+plugins/org.jkiss.dbeaver.ext.wmi_2.0.189.202208051447.jar
+plugins/org.jkiss.dbeaver.model_1.0.176.202208051447.jar
+plugins/org.jkiss.dbeaver.model.sql_1.0.77.202208051447.jar
+plugins/org.jkiss.dbeaver.net.ssh_1.0.108.202208051447.jar
+plugins/org.jkiss.dbeaver.net.ssh.jsch_1.1.97.202208051447.jar
+plugins/org.jkiss.dbeaver.net.ssh.sshj_1.0.108.202208051447.jar
+plugins/org.jkiss.dbeaver.net.ssh.ui_1.0.108.202208051447.jar
+plugins/org.jkiss.dbeaver.parser.common_1.0.4.202208051447.jar
+plugins/org.jkiss.dbeaver.registry_1.0.81.202208051447.jar
+plugins/org.jkiss.dbeaver.slf4j_2.0.57.202208051447.jar
+plugins/org.jkiss.dbeaver.tasks.native_1.0.65.202208051447.jar
+plugins/org.jkiss.dbeaver.tasks.native.ui_1.0.65.202208051447.jar
+plugins/org.jkiss.dbeaver.tasks.sql.ui_1.0.53.202208051447.jar
+plugins/org.jkiss.dbeaver.tasks.ui_1.0.65.202208051447.jar
+plugins/org.jkiss.dbeaver.tasks.ui.view_1.0.36.202208051447.jar
+plugins/org.jkiss.dbeaver.ui_5.1.102.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.app.standalone_22.1.4.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.charts_1.0.84.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.dashboard_1.0.84.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.acl_1.0.83.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.base_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.connection_1.0.78.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.data_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.entity_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.hex_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.image_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.json_1.0.71.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.session_1.0.65.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.sql_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.editors.xml_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.navigator_1.0.87.202208051447.jar
+plugins/org.jkiss.dbeaver.ui.search_1.0.78.202208051447.jar
+plugins/org.jkiss.utils_2.1.170.202208051447.jar
+plugins/org.jkiss.wmi_2.0.180.202208051447.jar
+plugins/org.objectweb.asm_9.3.0.v20220409-0157.jar
+plugins/org.osgi.service.prefs_1.1.2.202109301733.jar
+plugins/org.osgi.util.function_1.2.0.202109301733.jar
+plugins/org.osgi.util.measurement_1.0.2.201802012109.jar
+plugins/org.osgi.util.position_1.0.1.201505202026.jar
+plugins/org.osgi.util.promise_1.2.0.202109301733.jar
+plugins/org.osgi.util.xml_1.0.2.202109301733.jar
+plugins/org.sat4j.core_2.3.6.v20201214.jar
+plugins/org.sat4j.pb_2.3.6.v20201214.jar
+plugins/org.slf4j.api_1.7.30.v20200204-2150.jar
+plugins/org.tukaani.xz_1.9.0.v20210624-1259.jar
+plugins/org.w3c.css.sac_1.3.1.v200903091627.jar
+plugins/org.w3c.dom.events_3.0.0.draft20060413_v201105210656.jar
+plugins/org.w3c.dom.smil_1.0.1.v200903091627.jar
+plugins/org.w3c.dom.svg_1.1.0.v201011041433.jar
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.500.v20220509-0833/about.html
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.500.v20220509-0833/eclipse_11700.dll
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.500.v20220509-0833/launcher.win32.win32.x86_64.properties
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.500.v20220509-0833/META-INF/ECLIPSE_.RSA
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.500.v20220509-0833/META-INF/ECLIPSE_.SF
+plugins/org.eclipse.equinox.launcher.win32.win32.x86_64_1.2.500.v20220509-0833/META-INF/MANIFEST.MF
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/.api_description
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/about.html
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/plugin.properties
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/plugin.xml
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/META-INF/ECLIPSE_.RSA
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/META-INF/ECLIPSE_.SF
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/META-INF/MANIFEST.MF
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4_basestyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4_classic.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4_default_gtk.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4_default_mac.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4_default_win.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4_system.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4-dark_linux.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4-dark_mac.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4-dark_mac1013.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/e4-dark_win.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/high-contrast.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/common/e4_globalstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/dark/e4-dark_globalstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/dark/e4-dark_ide_colorextensions.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/dark/e4-dark_partstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/dark/e4-dark_preferencestyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/dark/e4-dark_tabstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/dark/e4-dark-drag-styling.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/light/e4-light_globalstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/light/e4-light_ide_colorextensions.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/light/e4-light_partstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/light/e4-light_tabstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/light/e4-light-drag-styling.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/system/e4-light_globalstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/system/e4-light_ide_colorextensions.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/system/e4-light_partstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/system/e4-light_tabstyle.css
+plugins/org.eclipse.ui.themes_1.2.1800.v20220316-1102/css/system/e4-light-drag-styling.css
+plugins/org.jkiss.bundle.gis_2.0.5/CTS-README.md
+plugins/org.jkiss.bundle.gis_2.0.5/JTS-LICENSES.md
+plugins/org.jkiss.bundle.gis_2.0.5/JTS-README.md
+plugins/org.jkiss.bundle.gis_2.0.5/LICENSE
+plugins/org.jkiss.bundle.gis_2.0.5/README.md
+plugins/org.jkiss.bundle.gis_2.0.5/META-INF/MANIFEST.MF
+plugins/org.jkiss.bundle.gis_2.0.5/META-INF/maven/org.jkiss.bundle/org.jkiss.bundle.gis/pom.properties
+plugins/org.jkiss.bundle.gis_2.0.5/META-INF/maven/org.jkiss.bundle/org.jkiss.bundle.gis/pom.xml
+plugins/org.jkiss.bundle.gis_2.0.5/lib/cts-1.5.2.jar
+plugins/org.jkiss.bundle.gis_2.0.5/lib/jts-core-1.18.0.jar
+plugins/org.jkiss.bundle.gis_2.0.5/lib/wkg-0.1-SNAPSHOT.jar
+plugins/org.jkiss.bundle.jfreechart_1.0.22/JFREECHART-LICENSE-LGPL.txt
+plugins/org.jkiss.bundle.jfreechart_1.0.22/JFREECHART-README.md
+plugins/org.jkiss.bundle.jfreechart_1.0.22/LICENSE.md
+plugins/org.jkiss.bundle.jfreechart_1.0.22/README.md
+plugins/org.jkiss.bundle.jfreechart_1.0.22/META-INF/MANIFEST.MF
+plugins/org.jkiss.bundle.jfreechart_1.0.22/META-INF/maven/org.jkiss.bundle/org.jkiss.bundle.jfreechart/pom.properties
+plugins/org.jkiss.bundle.jfreechart_1.0.22/META-INF/maven/org.jkiss.bundle/org.jkiss.bundle.jfreechart/pom.xml
+plugins/org.jkiss.bundle.jfreechart_1.0.22/lib/jcommon-1.0.23.jar
+plugins/org.jkiss.bundle.jfreechart_1.0.22/lib/jfreechart-1.0.19.jar
+plugins/org.jkiss.bundle.jfreechart_1.0.22/lib/jfreechart-swt-1.0.jar
+plugins/org.jkiss.bundle.jfreechart_1.0.22/lib/swtgraphics2d-1.0.jar
+plugins/org.jkiss.bundle.sshj_0.33.0/LICENSE.md
+plugins/org.jkiss.bundle.sshj_0.33.0/README.md
+plugins/org.jkiss.bundle.sshj_0.33.0/SSHJ-LICENSE
+plugins/org.jkiss.bundle.sshj_0.33.0/SSHJ-NOTICE
+plugins/org.jkiss.bundle.sshj_0.33.0/META-INF/MANIFEST.MF
+plugins/org.jkiss.bundle.sshj_0.33.0/META-INF/maven/org.jkiss.bundle/org.jkiss.bundle.sshj/pom.properties
+plugins/org.jkiss.bundle.sshj_0.33.0/META-INF/maven/org.jkiss.bundle/org.jkiss.bundle.sshj/pom.xml
+plugins/org.jkiss.bundle.sshj_0.33.0/lib/eddsa-0.3.0.jar
+plugins/org.jkiss.bundle.sshj_0.33.0/lib/jzlib-1.1.3.jar
+plugins/org.jkiss.bundle.sshj_0.33.0/lib/sshj-0.33.0.jar
+p2/org.eclipse.equinox.p2.engine/.settings/org.eclipse.equinox.p2.artifact.repository.prefs
+p2/org.eclipse.equinox.p2.engine/.settings/org.eclipse.equinox.p2.metadata.repository.prefs
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.lock
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1659711293924.profile.gz
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1659711293989.profile.gz
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1659711300423.profile.gz
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/1659711301152.profile.gz
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.settings/org.eclipse.equinox.p2.artifact.repository.prefs
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs
+p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions/jvmargs
+.gitignore
+.gitignore

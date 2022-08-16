@@ -1,25 +1,22 @@
 const express = require('express');
 const router = express.Router();
-// const db = require('../dbconnection');
+const db = require('../dbconnection');
 
 
 router.get('/getData', (req,res) => {
     res.send("susecess")
 })
 
-
-
-
-// router.get('/getPatient', (req,res) => {
-//     db.query("select * from patient_list order by key_value", (err, rows) => {
-//         if(!err) {
-//             res.send(rows);
-//         } else {
-//             console.log(`query error: ${err}`);
-//             res.send(err);
-//         }
-//     })
-// })
+router.get('/getTest', (req,res) => {
+    db.query("select * from post", (err, rows) => {
+        if(!err) {
+            res.send(rows);
+        } else {
+            console.log(`query error: ${err}`);
+            res.send(err);
+        }
+    })
+})
 
 // router.get('/getOne/:idx', (req, res) => {
 //     const keyValue = req.params.idx;
