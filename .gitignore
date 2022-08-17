@@ -7382,3 +7382,14 @@ p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/.s
 p2/org.eclipse.equinox.p2.engine/profileRegistry/DefaultProfile.profile/.data/org.eclipse.equinox.internal.p2.touchpoint.eclipse.actions/jvmargs
 .gitignore
 .gitignore
+configuration/org.eclipse.osgi/166/0/.cp/icons/full/etool16/block_selection_mode.png
+configuration/org.eclipse.osgi/243/0/.cp/icons/over/lock_ovr.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/ruler_position.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/misc/separator_h.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/page_data_grid_locked.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/page_data_grid.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/page_error.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/page_explain_plan.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/page_output_alert.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/page_output.png
+configuration/org.eclipse.osgi/257/0/.cp/icons/sql/variable.png

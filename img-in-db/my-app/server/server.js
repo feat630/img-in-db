@@ -10,8 +10,8 @@ const PORT = process.env.PORT || 4000;
 app.use(express.static(path.join(__dirname, '..', 'public/')));
 
 app.use(cors({
-    origin: '*', // 출처 허용 옵션
-    credential: 'true' // 사용자 인증이 필요한 리소스(쿠키 ..등) 접근
+    origin: 'http://localhost:3000', // 출처 허용 옵션
+    credential: true // 사용자 인증이 필요한 리소스(쿠키 ..등) 접근
     }));
 
 app.use("/", router);
