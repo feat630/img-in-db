@@ -17,5 +17,7 @@ useRef와 onChange를 이용해 에디터의 글내용을
 
 # 사용시 주의점
 내용 저장시 html태그가 같이 저장되는 형태
+
 innerHTML을 react에서 사용하기위해서는
+
 dangerouslySetInnerHTML를 사용해야하지만 보안에 취약점이 생겨 권장하지 않는방법
