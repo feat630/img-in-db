@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  width: 65%;
+  margin: auto;
 }
 
 .App-logo {
@@ -27,12 +28,39 @@
 .App-link {
   color: #61dafb;
 }
+#parents {
+  width: 100%;
+}
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#wraptag {
+  width: 100%;
+}
+
+#title {
+  width: inherit;
+  box-sizing : border-box;
+  margin: 15px 0;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border: 1px solid rgb(201, 199, 199) ;
+  border-radius: 3px;
+}
+
+.tablelist {
+  width: 100%;
+  border : 1px solid black;
+}
+
+.tablelist td, th {
+  border-collapse : collapse;
+  border : 1px solid black;
+}
+
+.titleST {
+  width: 70%;
+}
+
+.btn {
+  float: right;
+  margin: 15px 0;
 }
